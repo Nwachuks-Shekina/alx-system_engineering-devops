@@ -1,1 +1,1 @@
-Shell init readme
+Describing what each script is doing
